@@ -8,4 +8,22 @@ body {
         text-align: center;
         color: #ffffff;
     }
+
+    ol{
+        #Red{
+            color: red;
+        }
+        #Purple{
+            color: purple;
+        }
+        #Blue{
+            color: blue;
+        }
+        #Green{
+            color: green;
+        }
+        #Orange{
+            color: orange;
+        }
+    }
   }
