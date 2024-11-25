@@ -26,4 +26,11 @@ body {
             color: orange;
         }
     }
+
+    h3{
+        color: white;
+        text-align: center;
+        position: relative;
+        top: 550px;
+    }
   }
